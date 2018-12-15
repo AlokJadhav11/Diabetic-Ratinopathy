@@ -27,6 +27,7 @@ Following are the results obtained with CNN.
 
 
 CNN Training Info: PC : Workstation Xeon Processor, 16GB GPU, Xenial Xerus Ubuntu OS.
+
 Dataset: Kaggle Ratinal Image dataset for Diabetic Retinopathy.
 
 
